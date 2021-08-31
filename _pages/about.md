@@ -22,3 +22,5 @@ My research interests range from low-level vision to high-level vision with a fo
 ### Recent publications
 
 ### Professional service
+- Area Chair: BMVC 2021
+- Reviewer: CVPR, ICCV, ECCV, T-PAMI, IJCV, etc.
