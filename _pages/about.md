@@ -15,3 +15,12 @@ I received my PhD in Computer Vision from [Chinese Academy of Sciences](http://w
 
 My research interests range from low-level vision to high-level vision with a focus on video understanding. 
 You can find more detailed information in my [CV](Heng_Wang_CV.pdf) and my [old homepage](http://lear.inrialpes.fr/people/wang/).
+
+#### Updates
+- Release the UVO dataset and organize the challenge @ ICCV 2021
+- PyTorchVideo is released!
+- Open sourced the code & model for TimeSformer
+
+#### Recent publications
+
+#### Professional service
