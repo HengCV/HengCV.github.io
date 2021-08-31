@@ -16,7 +16,7 @@ My research interests range from low-level vision to high-level vision with a fo
 
 ### Updates
 - Release the [UVO dataset](https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation) and organize a challenge for [Open-World Segmentation @ ICCV 2021](https://sites.google.com/view/unidentified-video-object/challenge-intro).
-- PyTorchVideo is released!
+- ![PyTorchVideo](pytorchvideo.png) PyTorchVideo is released!
 - Open sourced the code & model for TimeSformer
 
 ### Recent publications
