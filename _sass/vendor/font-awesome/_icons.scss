@@ -868,7 +868,8 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-python:before { content: fa-content($fa-var-python); }
 .#{$fa-css-prefix}-qq:before { content: fa-content($fa-var-qq); }
 .#{$fa-css-prefix}-qrcode:before { content: fa-content($fa-var-qrcode); }
-.#{$fa-css-prefix}-chain-broken:before { content: $fa-var-chain-broken; }
+.#{$fa-css-prefix}-chain-broken:before { content: fa-content($fa-var-chain-broken); }
+.#{$fa-css-prefix}-chain:before { content: fa-content($fa-var-chain); }
 .#{$fa-css-prefix}-question:before { content: fa-content($fa-var-question); }
 .#{$fa-css-prefix}-question-circle:before { content: fa-content($fa-var-question-circle); }
 .#{$fa-css-prefix}-quidditch:before { content: fa-content($fa-var-quidditch); }
@@ -1179,7 +1180,6 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-user-tie:before { content: fa-content($fa-var-user-tie); }
 .#{$fa-css-prefix}-user-times:before { content: fa-content($fa-var-user-times); }
 .#{$fa-css-prefix}-users:before { content: fa-content($fa-var-users); }
-.#{$fa-css-prefix}-chain:before,
 .#{$fa-css-prefix}-users-cog:before { content: fa-content($fa-var-users-cog); }
 .#{$fa-css-prefix}-ussunnah:before { content: fa-content($fa-var-ussunnah); }
 .#{$fa-css-prefix}-utensil-spoon:before { content: fa-content($fa-var-utensil-spoon); }
