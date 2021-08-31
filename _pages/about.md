@@ -9,18 +9,16 @@ redirect_from:
 ---
 
 I am a research scientist at [Facebook AI Research](https://ai.facebook.com/people/heng-wang) 
-I was research scientist at Amazon Seattle, building computer vision systems for the "Just Walk Out" feature of [Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc>). 
-Before moving to US, I was a postdoc in the [LEAR Team, INRIA](http://lear.inrialpes.fr/) with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/).
-I received my PhD in Computer Vision from [Chinese Academy of Sciences](http://www.nlpr.ia.ac.cn/en/) in 2012, and B.S. in Electrical Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2006.
+I was an early member of the [Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc>) team that built the computer vision system to replace human crashiers for retail. Before moving to US, I was a postdoc in the [LEAR Team, INRIA](http://lear.inrialpes.fr/) with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/).
+I received my Ph.D. in Computer Vision from [Chinese Academy of Sciences](http://www.nlpr.ia.ac.cn/en/), and B.S. in Electrical Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/).
 
-My research interests range from low-level vision to high-level vision with a focus on video understanding. 
-You can find more detailed information in my [CV](Heng_Wang_CV.pdf) and my [old homepage](http://lear.inrialpes.fr/people/wang/).
+My research interests range from low-level vision to high-level vision with a focus on video understanding. You can find more detailed information in my [CV](Heng_Wang_CV.pdf) and my [old homepage](http://lear.inrialpes.fr/people/wang/).
 
-#### Updates
-- Release the UVO dataset and organize the challenge @ ICCV 2021
+### Updates
+- Release the [UVO dataset](https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation) and organize a challenge for [Open-World Segmentation @ ICCV 2021](https://sites.google.com/view/unidentified-video-object/challenge-intro).
 - PyTorchVideo is released!
 - Open sourced the code & model for TimeSformer
 
-#### Recent publications
+### Recent publications
 
-#### Professional service
+### Professional service
