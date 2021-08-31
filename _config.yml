@@ -87,6 +87,7 @@ author:
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=ghmgyewAAAAJ&hl=en"
+  semanticscholar  : "https://www.semanticscholar.org/author/Heng-Wang/46506697"
   email            :  "hengwang00@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,6 +98,7 @@ author:
   facebook         :
   foursquare       :
   github           : "HengCV"
+  linkedin         :  "https://www.linkedin.com/in/heng-wang-0907a835/"
   google_plus      :
   keybase          :
   instagram        :
