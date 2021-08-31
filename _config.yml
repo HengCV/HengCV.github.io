@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Heng Wang"
-  avatar           : "/images/wang.jpg"
+  avatar           : "wang.jpg"
   bio              : "Research Scientist @ Facebook AI Research"
   location         : "Bay Area, CA"
   employer         :
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=ghmgyewAAAAJ&hl=en"
-  email            :
+  email            :  "hengwang00@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
