@@ -16,7 +16,8 @@ My research interests range from low-level vision to high-level vision with a fo
 
 ### Updates
 - Release the [UVO dataset](https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation) and organize a challenge for [Open-World Segmentation @ ICCV 2021](https://sites.google.com/view/unidentified-video-object/challenge-intro).
-- <img width="130%" src="./.github/media/logo_horizontal_color.png" /> is released!
+- <img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/pytorchvideo.png" width="20" height="20" hspace="5"> is released!
+- <img width="130%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/pytorchvideo.png" /> is released!
 - Open sourced the [code & model](https://github.com/facebookresearch/TimeSformer) for [TimeSformer](https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understanding/).
 
 ### Recent publications
