@@ -37,7 +37,13 @@ Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. ICCV, 2021.
 <span><a href="https://sites.google.com/view/unidentified-video-object/dataset?authuser=0">Dataset</a></span>, 
 <span><a href="https://sites.google.com/view/unidentified-video-object/workshop-and-challenge">Workshop and Challenge</a></span>, 
 <span><a href="https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation">Facebook AI Blog</a></span>
+</td>
+  
+</tr>
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
 
+<td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="250"/>
 </td>
 
