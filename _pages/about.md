@@ -25,7 +25,7 @@ My research interests range from low-level vision to high-level vision with a fo
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/uvo.png" width="300"/>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/uvo.png" width="250"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
