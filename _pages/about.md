@@ -44,7 +44,7 @@ Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. ICCV, 2021.
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="250"/>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="150"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
