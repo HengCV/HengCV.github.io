@@ -25,7 +25,7 @@ My research interests range from low-level vision to high-level vision with a fo
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/uvo.png" width="250"/>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/uvo.png" width="300"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
@@ -44,7 +44,7 @@ Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. ICCV, 2021.
 <tr style="border-collapse: separate; border-spacing:30em;">
 
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="150"/>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="100"/>
 </td>
 
 <td style="border-collapse: collapse; border: none;">
@@ -58,6 +58,24 @@ Xinyu Gong, <b>Heng Wang</b>, Mike Zheng Shou , Matt Feiszli, Zhangyang Wang, Zh
 </td>
 
 </tr>
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/IPL.png" width="300"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Interactive Prototype Learning for Egocentric Action Recognition.</b>
+<br>
+Xiaohan Wang, Linchao Zhu, <b>Heng Wang</b>, Yi Yang. ICCV, 2021.
+<br>
+<span><a href="https://ffmpbgrnn.github.io/publications/pdf/ipl.pdf">Paper</a></span>  
+  
+  
+</td>
+
+</tr>  
 
 </table>
 
