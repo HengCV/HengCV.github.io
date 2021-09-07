@@ -30,6 +30,7 @@ My research interests range from low-level vision to high-level vision with a fo
 
 <td style="border-collapse: collapse; border: none;">
 <b>Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation.</b>
+<br>
 Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. ICCV, 2021.
 <br>
 <span><a href="https://arxiv.org/abs/2104.04691">Paper</a></span>, 
