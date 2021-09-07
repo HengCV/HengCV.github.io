@@ -38,6 +38,16 @@ Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. ICCV, 2021.
 <span><a href="https://sites.google.com/view/unidentified-video-object/workshop-and-challenge">Workshop and Challenge</a></span>, 
 <span><a href="https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation">Facebook AI Blog</a></span>
 
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="250"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Searching for Two-Stream Models in Multivariate Space for Video Recognition.</b>
+<br>
+Xinyu Gong, <b>Heng Wang</b>, Mike Zheng Shou , Matt Feiszli, Zhangyang Wang, Zhicheng Yan. ICCV, 2021.
+<br>
+<span><a href="https://arxiv.org/abs/2108.12957">Paper</a></span>  
+  
   
 </td>
 
