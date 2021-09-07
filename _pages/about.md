@@ -76,6 +76,25 @@ Xiaohan Wang, Linchao Zhu, <b>Heng Wang</b>, Yi Yang. ICCV, 2021.
 </td>
 
 </tr>  
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/timesformer.png" width="250"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Is Space-Time Attention All You Need for Video Understanding?</b>
+<br>
+Gedas Bertasius, <b>Heng Wang</b>, Lorenzo Torresani. ICML, 2021.
+<br>
+<span><a href="https://arxiv.org/abs/2102.05095">Paper</a></span>,  
+<span><a href="https://github.com/facebookresearch/TimeSformer">Code</a></span>, 
+<span><a href="https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understanding/">Facebook AI Blog</a></span>
+  
+</td>
+
+</tr>    
 
 </table>
 
