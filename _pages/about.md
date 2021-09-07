@@ -95,6 +95,25 @@ Gedas Bertasius, <b>Heng Wang</b>, Lorenzo Torresani. ICML, 2021.
 </td>
 
 </tr>    
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CM.png" width="250"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories.</b>
+<br>
+Xitong Yang, Haoqi Fan, Lorenzo Torresani, Larry Davis, <b>Heng Wang</b>. CVPR, 2021.
+<br>
+<span><a href="https://arxiv.org/abs/2104.01198">Paper</a></span>,  
+<span><a href="poster.pdf">Poster</a></span>, 
+<span><a href="presentation_slides.pdf">Slides</a></span>
+
+</td>
+
+</tr>    
 
 </table>
 
