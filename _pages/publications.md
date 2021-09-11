@@ -235,5 +235,34 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Pal
 </tr> 
  
   
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/DT.png" width="250"/> </td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Action Recognition by Dense Trajectories.</b>
+<br>
+<b>Heng Wang</b>, Alexander Klaser, Cordelia Schmid, Cheng-Lin Liu. CVPR, 2011.
+<br>
+<span><a href="https://hal.inria.fr/inria-00583818/document">Paper</a></span>,
+<span><a href="http://lear.inrialpes.fr/people/wang/download/dense_trajectory_release_v1.2.tar.gz">Code</a></span>,
+<span><a href="http://lear.inrialpes.fr/people/wang/dense_trajectories">Project page</a></span>
+</td>
+</tr>    
+
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Dense_Sampling.png" width="250"/> </td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Evaluation of Local Spatio-temporal Features for Action Recognition.</b>
+<br>
+<b>Heng Wang</strong>, Muhammad Muneeb Ullah, Alexander Klaser, Ivan Laptev, Cordelia Schmid. BMVC, 2009.
+<br>
+<span><a href="https://hal.inria.fr/inria-00439769/document">Paper</a></span>
+</td>
+</tr>
+  
   
 </table>
