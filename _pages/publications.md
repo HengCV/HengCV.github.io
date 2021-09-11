@@ -192,5 +192,24 @@ Deepti Ghadiyaram, Matt Feiszli, Du Tran, Xueting Yan, <b>Heng Wang</b>, and Dhr
 </td>
 
 </tr>   
+  
+  
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/SOA.png" width="250"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Scenes-Objects-Actions: A Multi-Task, Multi-Label Video Dataset.</b>
+<br>
+Jamie Ray, <b>Heng Wang</b>, Du Tran, Yufei Wang, Matt Feiszli, Lorenzo Torresani, and Manohar Palurin. ECCV, 2018.
+<br>
+<span><a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Heng_Wang_Scenes-Objects-Actions_A_Multi-Task_ECCV_2018_paper.html">Paper</a></span>
+
+</td>
+
+</tr>     
 
 </table>
