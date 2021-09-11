@@ -98,5 +98,25 @@ Xitong Yang, Haoqi Fan, Lorenzo Torresani, Larry Davis, <b>Heng Wang</b>. CVPR, 
 </td>
 
 </tr>    
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/inpainting.png" width="250"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Proposal-based Video Completion.</b>
+<br>
+Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman and Alexander G. Schwing. ECCV, 2020.
+<br>
+<span><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720035.pdf">Paper</a></span>
+
+</td>
+
+</tr>      
+
+  
+  
 
 </table>
