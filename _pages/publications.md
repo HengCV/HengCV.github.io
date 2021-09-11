@@ -150,6 +150,22 @@ Linchao Zhu, Laura Sevilla-Lara, Du Tran, Matt Feiszli, Yi Yang and <b>Heng Wang
 
 </tr>   
   
-  
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CSN.png" width="250"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Video Classification with Channel-Separated Convolutional Networks.</b>
+<br>
+Du Tran, <b>Heng Wang</b>, Lorenzo Torresani and Matt Feiszli. ICCV, 2019.
+<br>
+<span><a href="https://arxiv.org/abs/1904.02811">Paper</a></span>,
+<span><a href="https://github.com/facebookresearch/VMZ">Code</a></span>
+
+</td>
+
+</tr>   
 
 </table>
