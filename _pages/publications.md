@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+A full list of my publications on Google Scholar 
+
+<a href="https://www.semanticscholar.org/author/Heng-Wang/46506697" ><img alt="https://www.semanticscholar.org/author/Heng-Wang/46506697" height="30" src="https://research.semanticscholar.org/assets/logos/s2-logo.svg" width="120"></a>	
+<a href="http://scholar.google.com/citations?user=ghmgyewAAAAJ&hl=en" ><img alt="http://scholar.google.com/citations?user=ghmgyewAAAAJ&hl=en" height="25" src="http://scholar.google.com/intl/en/scholar/images/scholar_logo_lg_2011.gif" width="65"></a>
+
+
+
 <table style="border: none; border-collapse: collapse;" border="0">
   
 <tr style="border-collapse: separate; border-spacing:30em;">
