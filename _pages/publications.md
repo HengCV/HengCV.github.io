@@ -173,6 +173,24 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani and Matt Feiszli. ICCV, 2019.
 
 </td>
 
+</tr>  
+  
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/URU-Video.png" width="250"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Large-scale Weakly-Supervised Pre-training for Video Action Recognition.</b>
+<br>
+Deepti Ghadiyaram, Matt Feiszli, Du Tran, Xueting Yan, <b>Heng Wang</b>, and Dhruv Mahajan. CVPR, 2019.
+<br>
+<span><a href="https://arxiv.org/abs/1905.00561">Paper</a></span>
+
+</td>
+
 </tr>   
 
 </table>
