@@ -14,10 +14,8 @@ A full list of my publications on Google Scholar
 <table style="border: none; border-collapse: collapse;" border="0">
   
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/uvo.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/uvo.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation.</b>
@@ -29,14 +27,12 @@ Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. ICCV, 2021.
 <span><a href="https://sites.google.com/view/unidentified-video-object/workshop-and-challenge">Workshop and Challenge</a></span>, 
 <span><a href="https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation">Facebook AI Blog</a></span>
 </td>
-  
 </tr>
   
-<tr style="border-collapse: separate; border-spacing:30em;">
 
+<tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Searching for Two-Stream Models in Multivariate Space for Video Recognition.</b>
@@ -44,35 +40,27 @@ Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. ICCV, 2021.
 Xinyu Gong, <b>Heng Wang</b>, Mike Zheng Shou , Matt Feiszli, Zhangyang Wang, Zhicheng Yan. ICCV, 2021.
 <br>
 <span><a href="https://arxiv.org/abs/2108.12957">Paper</a></span>  
-  
-  
 </td>
-
 </tr>
+
   
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/IPL.png" width="250"/>
-</td>
-
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/IPL.png" width="250"/> </td>
+  
 <td style="border-collapse: collapse; border: none;">
 <b>Interactive Prototype Learning for Egocentric Action Recognition.</b>
 <br>
 Xiaohan Wang, Linchao Zhu, <b>Heng Wang</b>, Yi Yang. ICCV, 2021.
 <br>
 <span><a href="https://ffmpbgrnn.github.io/publications/pdf/ipl.pdf">Paper</a></span>  
-  
-  
 </td>
-
 </tr>  
   
+  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/timesformer.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/timesformer.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Is Space-Time Attention All You Need for Video Understanding?</b>
@@ -81,17 +69,14 @@ Gedas Bertasius, <b>Heng Wang</b>, Lorenzo Torresani. ICML, 2021.
 <br>
 <span><a href="https://arxiv.org/abs/2102.05095">Paper</a></span>,  
 <span><a href="https://github.com/facebookresearch/TimeSformer">Code</a></span>, 
-<span><a href="https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understanding/">Facebook AI Blog</a></span>
-  
+<span><a href="https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understanding/">Facebook AI Blog</a></span>  
 </td>
-
 </tr>    
   
+  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CM.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CM.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories.</b>
@@ -101,16 +86,13 @@ Xitong Yang, Haoqi Fan, Lorenzo Torresani, Larry Davis, <b>Heng Wang</b>. CVPR, 
 <span><a href="https://arxiv.org/abs/2104.01198">Paper</a></span>,  
 <span><a href="poster.pdf">Poster</a></span>, 
 <span><a href="presentation_slides.pdf">Slides</a></span>
-
 </td>
-
 </tr>    
   
+  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/inpainting.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/inpainting.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Proposal-based Video Completion.</b>
@@ -118,16 +100,13 @@ Xitong Yang, Haoqi Fan, Lorenzo Torresani, Larry Davis, <b>Heng Wang</b>. CVPR, 
 Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman and Alexander G. Schwing. ECCV, 2020.
 <br>
 <span><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720035.pdf">Paper</a></span>
-
 </td>
-
 </tr>      
  
+  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CorrNet.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CorrNet.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Video Modeling with Correlation Networks.</b>
@@ -135,16 +114,13 @@ Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman and Alexander G.
 <b>Heng Wang</b>, Du Tran, Lorenzo Torresani and Matt Feiszli. CVPR, 2020.
 <br>
 <span><a href="https://arxiv.org/abs/1906.03349">Paper</a></span>
-
 </td>
-
 </tr>    
   
+  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/FASTER.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/FASTER.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>FASTER Recurrent Networks for Efficient Video Classification.</b>
@@ -152,16 +128,13 @@ Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman and Alexander G.
 Linchao Zhu, Laura Sevilla-Lara, Du Tran, Matt Feiszli, Yi Yang and <b>Heng Wang</b>. AAAI, 2020.
 <br>
 <span><a href="https://arxiv.org/abs/1906.03349">Paper</a></span>
-
 </td>
-
 </tr>   
   
+  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CSN.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CSN.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Video Classification with Channel-Separated Convolutional Networks.</b>
@@ -170,17 +143,13 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani and Matt Feiszli. ICCV, 2019.
 <br>
 <span><a href="https://arxiv.org/abs/1904.02811">Paper</a></span>,
 <span><a href="https://github.com/facebookresearch/VMZ">Code</a></span>
-
 </td>
-
 </tr>  
   
   
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/URU-Video.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/URU-Video.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Large-scale Weakly-Supervised Pre-training for Video Action Recognition.</b>
@@ -188,18 +157,13 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani and Matt Feiszli. ICCV, 2019.
 Deepti Ghadiyaram, Matt Feiszli, Du Tran, Xueting Yan, <b>Heng Wang</b>, and Dhruv Mahajan. CVPR, 2019.
 <br>
 <span><a href="https://arxiv.org/abs/1905.00561">Paper</a></span>
-
 </td>
-
 </tr>   
   
   
-  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/SOA.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/SOA.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Scenes-Objects-Actions: A Multi-Task, Multi-Label Video Dataset.</b>
@@ -207,9 +171,26 @@ Deepti Ghadiyaram, Matt Feiszli, Du Tran, Xueting Yan, <b>Heng Wang</b>, and Dhr
 Jamie Ray, <b>Heng Wang</b>, Du Tran, Yufei Wang, Matt Feiszli, Lorenzo Torresani, and Manohar Palurin. ECCV, 2018.
 <br>
 <span><a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Heng_Wang_Scenes-Objects-Actions_A_Multi-Task_ECCV_2018_paper.html">Paper</a></span>
-
 </td>
+</tr> 
+  
 
-</tr>     
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/R(2+1)D.png" width="250"/> </td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>A Closer Look at Spatiotemporal Convolutions for Action Recognition.</b>
+<br>
+Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Paluri. CVPR, 2018.
+<br>
+<span><a href="https://arxiv.org/abs/1711.11248">Paper</a></span>,
+<span><a href="https://github.com/facebookresearch/VMZ">Code</a></span>,
+<span><a href="https://dutran.github.io/R2Plus1D/">Project page</a></span>
+</td>
+</tr>  
+
+
+  
 
 </table>
