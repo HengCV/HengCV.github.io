@@ -1,9 +1,3 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
 
 <table style="border: none; border-collapse: collapse;" border="0">
   
