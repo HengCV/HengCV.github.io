@@ -191,6 +191,49 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Pal
 </tr>  
 
 
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/IDT-IJCV.png" width="250"/> </td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>A Robust and Efficient Video Representation for Action Recognition.</b>
+<br>
+<b>Heng Wang</b>, Dan Oneata, Jakob Verbeek, Cordelia Schmid. IJCV, 2016.
+<br>
+<span><a href="https://hal.inria.fr/hal-01145834/document">Paper</a></span>
+</td>
+</tr> 
   
 
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/IDT.png" width="250"/> </td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Action Recognition with Improved Trajectories.</b>
+<br>
+<b>Heng Wang</b>, Cordelia Schmid. ICCV, 2013.
+<br>
+<span><a href="https://hal.inria.fr/hal-00873267v2/document">Paper</a></span>,
+<span><a href="http://lear.inrialpes.fr/people/wang/download/improved_trajectory_release.tar.gz">Code</a></span>,
+<span><a href="http://lear.inrialpes.fr/people/wang/improved_trajectories">Project page</a></span>
+</td>
+</tr>  
+
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/DT-IJCV.png" width="250"/> </td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Dense Trajectories and Motion Boundary Descriptors for Action Recognition.</b>
+<br>
+<b>Heng Wang</strong>, Alexander Klaser, Cordelia Schmid, Cheng-Lin Liu. IJCV, 2013.
+<br>
+<span><a href="https://hal.inria.fr/hal-00725627v2/document">Paper</a></span>
+</td>
+</tr> 
+ 
+  
+  
 </table>
