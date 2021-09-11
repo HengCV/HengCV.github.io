@@ -132,5 +132,24 @@ Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman and Alexander G.
 </td>
 
 </tr>    
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/FASTER.png" width="250"/>
+</td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>FASTER Recurrent Networks for Efficient Video Classification.</b>
+<br>
+Linchao Zhu, Laura Sevilla-Lara, Du Tran, Matt Feiszli, Yi Yang and <b>Heng Wang</b>. AAAI, 2020.
+<br>
+<span><a href="https://arxiv.org/abs/1906.03349">Paper</a></span>
+
+</td>
+
+</tr>   
+  
+  
 
 </table>
