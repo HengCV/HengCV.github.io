@@ -12,15 +12,16 @@ You can find more detailed information in my [CV](Heng_Wang_CV.pdf). The followi
 
 Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - Now: Facebook AI
+  * Research Scientist in different orginazations: AML, FAIAR, FAIR
+  * Work on both research projects and product initiatives
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 - 2017: Amazon Go
+  * Early member of the research team
+  * Design and implement computer vision systems to replace human crashiers for retail
+
+* 2012 - 2014: LEAR Team, INRIA  
+  * Postdoc with Cordelia Schmid
   
 Education
 ======
