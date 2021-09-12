@@ -135,7 +135,7 @@ Linchao Zhu, Laura Sevilla-Lara, Du Tran, Matt Feiszli, Yi Yang, <b>Heng Wang</b
 <td style="border-collapse: collapse; border: none;">
 <b>Video Classification with Channel-Separated Convolutional Networks.</b>
 <br>
-Du Tran, <b>Heng Wang</b>, Lorenzo Torresani and Matt Feiszli. ICCV, 2019.
+Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Matt Feiszli. <b>ICCV</b>, 2019.
 <br>
 <span><a href="https://arxiv.org/abs/1904.02811">Paper</a></span>,
 <span><a href="https://github.com/facebookresearch/VMZ">Code</a></span>
@@ -150,7 +150,7 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani and Matt Feiszli. ICCV, 2019.
 <td style="border-collapse: collapse; border: none;">
 <b>Large-scale Weakly-Supervised Pre-training for Video Action Recognition.</b>
 <br>
-Deepti Ghadiyaram, Matt Feiszli, Du Tran, Xueting Yan, <b>Heng Wang</b>, and Dhruv Mahajan. CVPR, 2019.
+Deepti Ghadiyaram, Matt Feiszli, Du Tran, Xueting Yan, <b>Heng Wang</b>, Dhruv Mahajan. <b>CVPR</b>, 2019.
 <br>
 <span><a href="https://arxiv.org/abs/1905.00561">Paper</a></span>
 </td>
@@ -164,7 +164,7 @@ Deepti Ghadiyaram, Matt Feiszli, Du Tran, Xueting Yan, <b>Heng Wang</b>, and Dhr
 <td style="border-collapse: collapse; border: none;">
 <b>Scenes-Objects-Actions: A Multi-Task, Multi-Label Video Dataset.</b>
 <br>
-Jamie Ray, <b>Heng Wang</b>, Du Tran, Yufei Wang, Matt Feiszli, Lorenzo Torresani, and Manohar Palurin. ECCV, 2018.
+Jamie Ray, <b>Heng Wang</b>, Du Tran, Yufei Wang, Matt Feiszli, Lorenzo Torresani, Manohar Palurin. <b>ECCV</b>, 2018.
 <br>
 <span><a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Heng_Wang_Scenes-Objects-Actions_A_Multi-Task_ECCV_2018_paper.html">Paper</a></span>
 </td>
@@ -178,7 +178,7 @@ Jamie Ray, <b>Heng Wang</b>, Du Tran, Yufei Wang, Matt Feiszli, Lorenzo Torresan
 <td style="border-collapse: collapse; border: none;">
 <b>A Closer Look at Spatiotemporal Convolutions for Action Recognition.</b>
 <br>
-Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Paluri. CVPR, 2018.
+Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Paluri. <b>CVPR</b>, 2018.
 <br>
 <span><a href="https://arxiv.org/abs/1711.11248">Paper</a></span>,
 <span><a href="https://github.com/facebookresearch/VMZ">Code</a></span>,
@@ -194,7 +194,7 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Pal
 <td style="border-collapse: collapse; border: none;">
 <b>A Robust and Efficient Video Representation for Action Recognition.</b>
 <br>
-<b>Heng Wang</b>, Dan Oneata, Jakob Verbeek, Cordelia Schmid. IJCV, 2016.
+<b>Heng Wang</b>, Dan Oneata, Jakob Verbeek, Cordelia Schmid. <b>IJCV</b>, 2016.
 <br>
 <span><a href="https://hal.inria.fr/hal-01145834/document">Paper</a></span>
 </td>
@@ -208,7 +208,7 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Pal
 <td style="border-collapse: collapse; border: none;">
 <b>Action Recognition with Improved Trajectories.</b>
 <br>
-<b>Heng Wang</b>, Cordelia Schmid. ICCV, 2013.
+<b>Heng Wang</b>, Cordelia Schmid. <b>ICCV</b>, 2013.
 <br>
 <span><a href="https://hal.inria.fr/hal-00873267v2/document">Paper</a></span>,
 <span><a href="http://lear.inrialpes.fr/people/wang/download/improved_trajectory_release.tar.gz">Code</a></span>,
@@ -224,7 +224,7 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Pal
 <td style="border-collapse: collapse; border: none;">
 <b>Dense Trajectories and Motion Boundary Descriptors for Action Recognition.</b>
 <br>
-<b>Heng Wang</strong>, Alexander Klaser, Cordelia Schmid, Cheng-Lin Liu. IJCV, 2013.
+<b>Heng Wang</b>, Alexander Klaser, Cordelia Schmid, Cheng-Lin Liu. <b>IJCV</b>, 2013.
 <br>
 <span><a href="https://hal.inria.fr/hal-00725627v2/document">Paper</a></span>
 </td>
@@ -238,7 +238,7 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Pal
 <td style="border-collapse: collapse; border: none;">
 <b>Action Recognition by Dense Trajectories.</b>
 <br>
-<b>Heng Wang</b>, Alexander Klaser, Cordelia Schmid, Cheng-Lin Liu. CVPR, 2011.
+<b>Heng Wang</b>, Alexander Klaser, Cordelia Schmid, Cheng-Lin Liu. <b>CVPR</b>, 2011.
 <br>
 <span><a href="https://hal.inria.fr/inria-00583818/document">Paper</a></span>,
 <span><a href="http://lear.inrialpes.fr/people/wang/download/dense_trajectory_release_v1.2.tar.gz">Code</a></span>,
@@ -254,7 +254,7 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Pal
 <td style="border-collapse: collapse; border: none;">
 <b>Evaluation of Local Spatio-temporal Features for Action Recognition.</b>
 <br>
-<b>Heng Wang</strong>, Muhammad Muneeb Ullah, Alexander Klaser, Ivan Laptev, Cordelia Schmid. BMVC, 2009.
+<b>Heng Wang</b>, Muhammad Muneeb Ullah, Alexander Klaser, Ivan Laptev, Cordelia Schmid. <b>BMVC</b>, 2009.
 <br>
 <span><a href="https://hal.inria.fr/inria-00439769/document">Paper</a></span>
 </td>
