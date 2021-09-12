@@ -92,9 +92,10 @@ Xitong Yang, Haoqi Fan, Lorenzo Torresani, Larry Davis, <b>Heng Wang</b>. <b>CVP
 <td style="border-collapse: collapse; border: none;">
 <b>Proposal-based Video Completion.</b>
 <br>
-Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman and Alexander G. Schwing. ECCV, 2020.
+Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman, Alexander G. Schwing. <b>ECCV</b>, 2020.
 <br>
-<span><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720035.pdf">Paper</a></span>
+<span><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720035.pdf">Paper</a></span>,
+<span><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720035-supp.pdf">Supplementary Material</a></span>
 </td>
 </tr>      
  
@@ -106,7 +107,7 @@ Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman and Alexander G.
 <td style="border-collapse: collapse; border: none;">
 <b>Video Modeling with Correlation Networks.</b>
 <br>
-<b>Heng Wang</b>, Du Tran, Lorenzo Torresani and Matt Feiszli. CVPR, 2020.
+<b>Heng Wang</b>, Du Tran, Lorenzo Torresani, Matt Feiszli. <b>CVPR</b>, 2020.
 <br>
 <span><a href="https://arxiv.org/abs/1906.03349">Paper</a></span>
 </td>
@@ -120,7 +121,7 @@ Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman and Alexander G.
 <td style="border-collapse: collapse; border: none;">
 <b>FASTER Recurrent Networks for Efficient Video Classification.</b>
 <br>
-Linchao Zhu, Laura Sevilla-Lara, Du Tran, Matt Feiszli, Yi Yang and <b>Heng Wang</b>. AAAI, 2020.
+Linchao Zhu, Laura Sevilla-Lara, Du Tran, Matt Feiszli, Yi Yang, <b>Heng Wang</b>. <b>AAAI</b>, 2020.
 <br>
 <span><a href="https://arxiv.org/abs/1906.03349">Paper</a></span>
 </td>
