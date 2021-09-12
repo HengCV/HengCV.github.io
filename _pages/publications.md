@@ -123,7 +123,7 @@ Yuan-Ting Hu, <b>Heng Wang</b>, Nicolas Ballas, Kristen Grauman, Alexander G. Sc
 <br>
 Linchao Zhu, Laura Sevilla-Lara, Du Tran, Matt Feiszli, Yi Yang, <b>Heng Wang</b>. <b>AAAI</b>, 2020.
 <br>
-<span><a href="https://arxiv.org/abs/1906.03349">Paper</a></span>
+<span><a href="https://arxiv.org/abs/1906.04226">Paper</a></span>
 </td>
 </tr>   
   
