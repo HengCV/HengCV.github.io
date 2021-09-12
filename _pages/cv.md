@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find more detailed information in my [CV](Heng_Wang_CV.pdf). The following is a short summary:
+You can find more detailed information in my [CV](https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Heng_Wang_CV.pdf). The following is a short summary:
 
 Experience
 ======
