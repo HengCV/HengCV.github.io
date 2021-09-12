@@ -182,8 +182,7 @@ Jamie Ray, <b>Heng Wang</b>, Du Tran, Yufei Wang, Matt Feiszli, Lorenzo Torresan
 Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Jamie Ray, Yann LeCun, Manohar Paluri. <b>CVPR</b>, 2018.
 <br>
 <span><a href="https://arxiv.org/abs/1711.11248">Paper</a></span>,
-<span><a href="https://github.com/facebookresearch/VMZ">Code</a></span>,
-<span><a href="https://dutran.github.io/R2Plus1D/">Project page</a></span>
+<span><a href="https://github.com/facebookresearch/VMZ">Code</a></span>
 </td>
 </tr>  
 
