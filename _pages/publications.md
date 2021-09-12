@@ -3,7 +3,6 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-
 You can find the full list of my publications on <a href="http://scholar.google.com/citations?user=ghmgyewAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/google_scholar.png" width="100"/></a> and <a href="https://www.semanticscholar.org/author/Heng-Wang/46506697"><img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/semantic_scholar.png" width="100"/></a>. The following are selected publications:
 
 <table style="border: none; border-collapse: collapse;" border="0">
