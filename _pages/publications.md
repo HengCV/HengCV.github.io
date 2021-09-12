@@ -152,7 +152,8 @@ Du Tran, <b>Heng Wang</b>, Lorenzo Torresani, Matt Feiszli. <b>ICCV</b>, 2019.
 <br>
 Deepti Ghadiyaram, Matt Feiszli, Du Tran, Xueting Yan, <b>Heng Wang</b>, Dhruv Mahajan. <b>CVPR</b>, 2019.
 <br>
-<span><a href="https://arxiv.org/abs/1905.00561">Paper</a></span>
+<span><a href="https://arxiv.org/abs/1905.00561">Paper</a></span>,
+<span><a href="https://github.com/facebookresearch/VMZ">Code</a></span>
 </td>
 </tr>   
   
