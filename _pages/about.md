@@ -23,10 +23,8 @@ My research interests range from low-level vision to high-level vision with a fo
 <table style="border: none; border-collapse: collapse;" border="0">
   
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/uvo.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/uvo.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation.</b>
@@ -35,53 +33,44 @@ Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. <b>ICCV</b>, 2021.
 <br>
 <span><a href="https://arxiv.org/abs/2104.04691">Paper</a></span>, 
 <span><a href="https://sites.google.com/view/unidentified-video-object/dataset?authuser=0">Dataset</a></span>, 
-<span><a href="https://sites.google.com/view/unidentified-video-object/workshop-and-challenge">Workshop and Challenge</a></span>, 
+<span><a href="https://sites.google.com/view/unidentified-video-object/workshop-program">Workshop</a></span>, 
+<span><a href="https://sites.google.com/view/unidentified-video-object/challenge-intro">Challenge</a></span>, 
 <span><a href="https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation">Facebook AI Blog</a></span>
 </td>
-  
 </tr>
   
+  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/Auto-TSNet.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Searching for Two-Stream Models in Multivariate Space for Video Recognition.</b>
 <br>
-Xinyu Gong, <b>Heng Wang</b>, Mike Zheng Shou , Matt Feiszli, Zhangyang Wang, Zhicheng Yan. <b>ICCV</b>, 2021.
+Xinyu Gong, <b>Heng Wang</b>, Zheng Shou, Matt Feiszli, Zhangyang Wang, Zhicheng Yan. <b>ICCV</b>, 2021.
 <br>
 <span><a href="https://arxiv.org/abs/2108.12957">Paper</a></span>  
-  
-  
 </td>
-
 </tr>
+
   
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/IPL.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/IPL.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Interactive Prototype Learning for Egocentric Action Recognition.</b>
 <br>
 Xiaohan Wang, Linchao Zhu, <b>Heng Wang</b>, Yi Yang. <b>ICCV</b>, 2021.
 <br>
-<span><a href="https://ffmpbgrnn.github.io/publications/pdf/ipl.pdf">Paper</a></span>  
-  
-  
+<span><a href="https://ffmpbgrnn.github.io/publications/pdf/ipl.pdf">Paper</a></span> 
 </td>
-
 </tr>  
   
+  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/timesformer.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/timesformer.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Is Space-Time Attention All You Need for Video Understanding?</b>
@@ -91,16 +80,13 @@ Gedas Bertasius, <b>Heng Wang</b>, Lorenzo Torresani. <b>ICML</b>, 2021.
 <span><a href="https://arxiv.org/abs/2102.05095">Paper</a></span>,  
 <span><a href="https://github.com/facebookresearch/TimeSformer">Code</a></span>, 
 <span><a href="https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understanding/">Facebook AI Blog</a></span>
-  
 </td>
-
 </tr>    
   
+  
 <tr style="border-collapse: separate; border-spacing:30em;">
-
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CM.png" width="250"/>
-</td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/CM.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
 <b>Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories.</b>
@@ -110,11 +96,10 @@ Xitong Yang, Haoqi Fan, Lorenzo Torresani, Larry Davis, <b>Heng Wang</b>. <b>CVP
 <span><a href="https://arxiv.org/abs/2104.01198">Paper</a></span>,  
 <span><a href="poster.pdf">Poster</a></span>, 
 <span><a href="presentation_slides.pdf">Slides</a></span>
-
 </td>
-
 </tr>    
 
+  
 </table>
 
 ### Professional service
