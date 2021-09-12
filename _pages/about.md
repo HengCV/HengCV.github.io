@@ -31,7 +31,7 @@ My research interests range from low-level vision to high-level vision with a fo
 <td style="border-collapse: collapse; border: none;">
 <b>Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation.</b>
 <br>
-Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. ICCV, 2021.
+Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. <b>ICCV</b>, 2021.
 <br>
 <span><a href="https://arxiv.org/abs/2104.04691">Paper</a></span>, 
 <span><a href="https://sites.google.com/view/unidentified-video-object/dataset?authuser=0">Dataset</a></span>, 
@@ -50,7 +50,7 @@ Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Du Tran. ICCV, 2021.
 <td style="border-collapse: collapse; border: none;">
 <b>Searching for Two-Stream Models in Multivariate Space for Video Recognition.</b>
 <br>
-Xinyu Gong, <b>Heng Wang</b>, Mike Zheng Shou , Matt Feiszli, Zhangyang Wang, Zhicheng Yan. ICCV, 2021.
+Xinyu Gong, <b>Heng Wang</b>, Mike Zheng Shou , Matt Feiszli, Zhangyang Wang, Zhicheng Yan. <b>ICCV</b>, 2021.
 <br>
 <span><a href="https://arxiv.org/abs/2108.12957">Paper</a></span>  
   
@@ -68,7 +68,7 @@ Xinyu Gong, <b>Heng Wang</b>, Mike Zheng Shou , Matt Feiszli, Zhangyang Wang, Zh
 <td style="border-collapse: collapse; border: none;">
 <b>Interactive Prototype Learning for Egocentric Action Recognition.</b>
 <br>
-Xiaohan Wang, Linchao Zhu, <b>Heng Wang</b>, Yi Yang. ICCV, 2021.
+Xiaohan Wang, Linchao Zhu, <b>Heng Wang</b>, Yi Yang. <b>ICCV</b>, 2021.
 <br>
 <span><a href="https://ffmpbgrnn.github.io/publications/pdf/ipl.pdf">Paper</a></span>  
   
@@ -86,7 +86,7 @@ Xiaohan Wang, Linchao Zhu, <b>Heng Wang</b>, Yi Yang. ICCV, 2021.
 <td style="border-collapse: collapse; border: none;">
 <b>Is Space-Time Attention All You Need for Video Understanding?</b>
 <br>
-Gedas Bertasius, <b>Heng Wang</b>, Lorenzo Torresani. ICML, 2021.
+Gedas Bertasius, <b>Heng Wang</b>, Lorenzo Torresani. <b>ICML</b>, 2021.
 <br>
 <span><a href="https://arxiv.org/abs/2102.05095">Paper</a></span>,  
 <span><a href="https://github.com/facebookresearch/TimeSformer">Code</a></span>, 
@@ -105,7 +105,7 @@ Gedas Bertasius, <b>Heng Wang</b>, Lorenzo Torresani. ICML, 2021.
 <td style="border-collapse: collapse; border: none;">
 <b>Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories.</b>
 <br>
-Xitong Yang, Haoqi Fan, Lorenzo Torresani, Larry Davis, <b>Heng Wang</b>. CVPR, 2021.
+Xitong Yang, Haoqi Fan, Lorenzo Torresani, Larry Davis, <b>Heng Wang</b>. <b>CVPR</b>, 2021.
 <br>
 <span><a href="https://arxiv.org/abs/2104.01198">Paper</a></span>,  
 <span><a href="poster.pdf">Poster</a></span>, 
