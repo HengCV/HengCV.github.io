@@ -2,11 +2,13 @@
 layout: archive
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
 
-You can find more detailed information in my [CV](Heng_Wang_CV.pdf). The following is a short summary:
+You can find more detailed information in my [CV](https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/Heng_Wang_CV.pdf). The following is a short summary:
 
 Experience
 ======
