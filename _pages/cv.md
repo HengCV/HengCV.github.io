@@ -10,7 +10,7 @@ redirect_from:
 
 You can find more detailed information in my [CV](https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/Heng_Wang_CV.pdf). The following is a short summary:
 
-Experience
+### Experience
 ======
 * 2017 - Now: Facebook AI
   * Research Scientist in different orginazations: AML, FAIAR, FAIR
@@ -23,7 +23,7 @@ Experience
 * 2012 - 2014: LEAR Team, INRIA  
   * Postdoc with Cordelia Schmid
   
-Education
+### Education
 ======
 * B.S. in Electrical Engineering, Harbin Institute of Technology, 2006
 * Ph.D. in Computer Vision, Chinese Academy of Sciences, 2012
