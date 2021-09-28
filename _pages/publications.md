@@ -7,7 +7,7 @@ You can find the full list of my publications on <a href="http://scholar.google.
 
 <table style="border: none; border-collapse: collapse;" border="0">
   
-<tr style="border-collapse: separate; border-spacing:30em;">
+<tr style="border-collapse: separate; border-spacing:300em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/PTV.png" width="250"/> </td>
 
