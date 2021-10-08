@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at [Facebook AI Research](https://ai.facebook.com/people/heng-wang). 
+I am currently a research lead at ByteDance. Before I was a research scientist at [Facebook AI Research](https://ai.facebook.com/people/heng-wang). 
 I was an early member of the [Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc>) team that built the computer vision system to replace human crashiers for retail. Before moving to US, I was a postdoc in the [LEAR Team, INRIA](http://lear.inrialpes.fr/) with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/).
 I received my Ph.D. in Computer Vision from [Chinese Academy of Sciences](http://www.nlpr.ia.ac.cn/en/), and B.S. in Electrical Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/).
 
