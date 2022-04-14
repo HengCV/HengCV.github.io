@@ -34,7 +34,7 @@ Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Jitendra Malik, Du Tran. <b>CVPR</b
 <br>
 <span><a href="">Paper</a></span>, 
 <span><a href="https://sites.google.com/view/generic-grouping">Project page</a></span>, 
-<span><a href="https://github.com/facebookresearch/Generic-Grouping">Code</a></span>, 
+<span><a href="https://github.com/facebookresearch/Generic-Grouping">Code</a></span>
 </td>
 </tr>  
   
