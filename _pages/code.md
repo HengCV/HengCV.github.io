@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 Code and model we released for our publications:
+* [Code & model](https://github.com/facebookresearch/Generic-Grouping) for the [Generic Grouping Network](https://sites.google.com/view/generic-grouping) paper of CVPR 2022.
 * [Code & model](https://github.com/facebookresearch/TimeSformer) for the [Timesformer](https://arxiv.org/abs/2102.05095) paper of ICML 2021.
 * <a href="https://github.com/facebookresearch/pytorchvideo"><img width="15%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/pytorchvideo.png"></a>: A deep learning library for video understanding.
 * [VMZ](https://github.com/facebookresearch/VMZ): A set of models and code for [R(2+1)D](https://arxiv.org/abs/1711.11248) and [CSN](https://arxiv.org/abs/1904.02811) with [large-scale pre-training](https://arxiv.org/abs/1905.00561).
