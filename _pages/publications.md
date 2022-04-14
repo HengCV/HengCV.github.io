@@ -13,7 +13,7 @@ You can find the full list of my publications on <a href="http://scholar.google.
 <img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/ggn.png" width="250"/> </td>
 
 <td style="border-collapse: collapse; border: none;">
-<b>Open-World Instance Segmentation: Exploiting Pseudo Ground Truth Learned From Pairwise Affinity.</b>
+<b>Open-World Instance Segmentation: Exploiting Pseudo Ground Truth Learned from Pairwise Affinity.</b>
 <br>
 Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Jitendra Malik, Du Tran. <b>CVPR</b>, 2022.
 <br>
