@@ -14,6 +14,7 @@ I received my Ph.D. in Computer Vision from [Chinese Academy of Sciences](http:/
 My research interests range from low-level vision to high-level vision with a focus on video understanding. You can find more detailed information in my [CV](Heng_Wang_CV.pdf) and my [old homepage](http://lear.inrialpes.fr/people/wang/). The best way to contact me is via my e-mail: <img width="25%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/email.png" >.
 
 ### Updates
+- Release the [source code & model](https://github.com/facebookresearch/Generic-Grouping) for our [CVPR 2022 paper](https://sites.google.com/view/generic-grouping) on open-world instance segmentation.
 - Release the [UVO dataset](https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation) and organize a challenge for [Open-World Segmentation @ ICCV 2021](https://sites.google.com/view/unidentified-video-object/challenge-intro).
 - <img width="20%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/pytorchvideo.png"> is released! Check out the code at [GitHub](https://github.com/facebookresearch/pytorchvideo) and the [offical webiste](https://pytorchvideo.org/).
 - Open sourced the [code & model](https://github.com/facebookresearch/TimeSformer) for [TimeSformer](https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understanding/).
@@ -24,6 +25,23 @@ My research interests range from low-level vision to high-level vision with a fo
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/PTV.png" width="250"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>Open-World Instance Segmentation: Exploiting Pseudo Ground Truth Learned From Pairwise Affinity.</b>
+<br>
+Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Jitendra Malik, Du Tran. <b>CVPR</b>, 2022.
+<br>
+<span><a href="">Paper</a></span>, 
+<span><a href="https://sites.google.com/view/generic-grouping">Project page</a></span>, 
+<span><a href="https://github.com/facebookresearch/Generic-Grouping">Code</a></span>, 
+</td>
+</tr>  
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/ggn.png" width="250"/> </td>
+  
 
 <td style="border-collapse: collapse; border: none;">
 <b>PyTorchVideo: A Deep Learning Library for Video Understanding.</b>
