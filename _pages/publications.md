@@ -7,6 +7,39 @@ You can find the full list of my publications on <a href="http://scholar.google.
 
 <table style="border: none; border-collapse: collapse;" border="0">
   
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/ggn.png" width="250"/> </td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>Open-World Instance Segmentation: Exploiting Pseudo Ground Truth Learned From Pairwise Affinity.</b>
+<br>
+Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Jitendra Malik, Du Tran. <b>CVPR</b>, 2022.
+<br>
+<span><a href="">Paper</a></span>, 
+<span><a href="https://sites.google.com/view/generic-grouping">Project page</a></span>, 
+<span><a href="https://github.com/facebookresearch/Generic-Grouping">Code</a></span>  
+</td>
+</tr>
+  
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/PTV.png" width="250"/> </td>
+
+<td style="border-collapse: collapse; border: none;">
+<b>PyTorchVideo: A Deep Learning Library for Video Understanding.</b>
+<br>
+Haoqi Fan, Tullie Murrell, <b>Heng Wang</b>, Kalyan Vasudev Alwala, Yanghao Li, Yilei Li, Bo Xiong, Nikhila Ravi, Meng Li, Haichuan Yang, Jitendra Malik, Ross Girshick, Matt Feiszli, Aaron Adcock, Wan-Yen Lo, Christoph Feichtenhofer. <b>ACM International Conference on Multimedia</b>, 2021.
+<br>
+<span><a href="http://HengCV.github.io/files/pytorchvideo.pdf">Paper</a></span>, 
+<span><a href="https://pytorchvideo.org/">Project page</a></span>, 
+<span><a href="https://github.com/facebookresearch/pytorchvideo">Code</a></span>, 
+<span><a href="https://ai.facebook.com/blog/pytorchvideo-a-deep-learning-library-for-video-understanding/">Facebook AI Blog</a></span>  
+</td>
+</tr>
+  
   
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
