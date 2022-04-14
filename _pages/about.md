@@ -28,7 +28,7 @@ My research interests range from low-level vision to high-level vision with a fo
   
  
 <td style="border-collapse: collapse; border: none;">
-<b>Open-World Instance Segmentation: Exploiting Pseudo Ground Truth Learned From Pairwise Affinity.</b>
+<b>Open-World Instance Segmentation: Exploiting Pseudo Ground Truth Learned from Pairwise Affinity.</b>
 <br>
 Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Jitendra Malik, Du Tran. <b>CVPR</b>, 2022.
 <br>
