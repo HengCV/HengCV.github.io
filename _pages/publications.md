@@ -17,7 +17,7 @@ You can find the full list of my publications on <a href="http://scholar.google.
 <br>
 Weiyao Wang, Matt Feiszli, <b>Heng Wang</b>, Jitendra Malik, Du Tran. <b>CVPR</b>, 2022.
 <br>
-<span><a href="">Paper</a></span>, 
+<span><a href="https://arxiv.org/abs/2204.06107">Paper</a></span>, 
 <span><a href="https://sites.google.com/view/generic-grouping">Project page</a></span>, 
 <span><a href="https://github.com/facebookresearch/Generic-Grouping">Code</a></span>  
 </td>
