@@ -11,7 +11,7 @@ redirect_from:
 You can find more detailed information in my [CV](https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/Heng_Wang_CV.pdf). The following is a short summary:
 
 ### Experience
-* 2021 - Now: ByteDance
+* 2021 - Now: TikTok
   * Lead the research effort on content understanding and creation
 
 * 2017 - 2021: Facebook AI Research
