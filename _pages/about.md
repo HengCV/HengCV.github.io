@@ -136,5 +136,5 @@ Xitong Yang, Haoqi Fan, Lorenzo Torresani, Larry Davis, <b>Heng Wang</b>. <b>CVP
 </table>
 
 ### Professional service
-- Area Chair: BMVC 2021
+- Area Chair: BMVC 2021, ICCV 2023
 - Reviewer: CVPR'13-21, ICCV'13-21, ECCV'14-20, T-PAMI, IJCV, etc.
