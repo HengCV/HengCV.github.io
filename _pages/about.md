@@ -25,6 +25,22 @@ My research interests range from low-level vision to high-level vision with a fo
   
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/R2former.png" width="250"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>R2Former: Unified Retrieval and Reranking Transformer for Place Recognition.</b>
+<br>
+Sijie Zhu, Linjie Yang, Chen Chen, Mubarak Shah, Xiaohui Shen, <b>Heng Wang</b>. <b>CVPR</b>, 2022.
+<br>
+<span><a href="">Paper</a></span>, 
+<span><a href="https://github.com/Jeff-Zilence/R2Former">Project page</a></span>, 
+<span><a href="https://github.com/Jeff-Zilence/R2Former">Code</a></span>
+</td>
+</tr> 
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/ggn.png" width="250"/> </td>
   
  
