@@ -31,11 +31,27 @@ My research interests range from low-level vision to high-level vision with a fo
 <td style="border-collapse: collapse; border: none;">
 <b>R2Former: Unified Retrieval and Reranking Transformer for Place Recognition.</b>
 <br>
-Sijie Zhu, Linjie Yang, Chen Chen, Mubarak Shah, Xiaohui Shen, <b>Heng Wang</b>. <b>CVPR</b>, 2022.
+Sijie Zhu, Linjie Yang, Chen Chen, Mubarak Shah, Xiaohui Shen, <b>Heng Wang</b>. <b>CVPR</b>, 2023.
 <br>
 <span><a href="">Paper</a></span>, 
 <span><a href="https://github.com/Jeff-Zilence/R2Former">Project page</a></span>, 
 <span><a href="https://github.com/Jeff-Zilence/R2Former">Code</a></span>
+</td>
+</tr> 
+  
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/panic3d.png" width="250"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters.</b>
+<br>
+Shuhong Chen, Kevin Zhang, Yichun Shi, <b>Heng Wang</b>, Yiheng Zhu, Guoxian Song, Sizhe An, Janus Kristjansson, Xiao Yang, Matthias Zwicker. <b>CVPR</b>, 2023.
+<br>
+<span><a href="https://arxiv.org/abs/2303.14587">Paper</a></span>, 
+<span><a href="https://github.com/ShuhongChen/panic3d-anime-reconstruction">Project page</a></span>, 
+<span><a href="https://github.com/ShuhongChen/panic3d-anime-reconstruction">Code</a></span>
 </td>
 </tr> 
   
