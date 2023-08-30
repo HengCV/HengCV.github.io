@@ -14,7 +14,7 @@ I received my Ph.D. in Computer Vision from [Chinese Academy of Sciences](http:/
 My research interests range from low-level vision to high-level vision with a focus on video understanding. You can find more detailed information in my [CV](Heng_Wang_CV.pdf) and my [old homepage](http://lear.inrialpes.fr/people/wang/). The best way to contact me is via my e-mail: <img width="25%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/email.png" >.
 
 ### Updates
-- Two papers accepted by CVPR 2023.
+- Two papers accepted by CVPR 2023 and one paper accepted by ICCV 2023.
 - Release the [code & model](https://github.com/facebookresearch/Generic-Grouping) for our [CVPR 2022 paper](https://sites.google.com/view/generic-grouping) on open-world instance segmentation.
 - Release the [UVO dataset](https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation) and organize a challenge for [Open-World Segmentation @ ICCV 2021](https://sites.google.com/view/unidentified-video-object/challenge-intro).
 - <img width="20%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/pytorchvideo.png"> is released! Check out the code at [GitHub](https://github.com/facebookresearch/pytorchvideo) and the [offical webiste](https://pytorchvideo.org/).
@@ -33,7 +33,7 @@ My research interests range from low-level vision to high-level vision with a fo
 <br>
 Sijie Zhu, Linjie Yang, Chen Chen, Mubarak Shah, Xiaohui Shen, <b>Heng Wang</b>. <b>CVPR</b>, 2023.
 <br>
-<span><a href="">Paper</a></span>, 
+<span><a href="https://arxiv.org/abs/2304.03410">Paper</a></span>, 
 <span><a href="https://github.com/Jeff-Zilence/R2Former">Project page</a></span>, 
 <span><a href="https://github.com/Jeff-Zilence/R2Former">Code</a></span>
 </td>
