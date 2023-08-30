@@ -22,10 +22,26 @@ My research interests range from low-level vision to high-level vision with a fo
 
 ### Recent publications
 <table style="border: none; border-collapse: collapse;" border="0">
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/PTNL.png" width="250"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels?</b>
+<br>
+Cheng-En Wu, Yu Tian, Haichao Yu, <b>Heng Wang</b>, Pedro Morgado, Yu Hen Hu, Linjie Yang. <b>ICCV</b>, 2023.
+<br>
+<span><a href="https://arxiv.org/abs/2307.11978">Paper</a></span>, 
+<span><a href="https://github.com/CEWu/PTNL">Project page</a></span>, 
+<span><a href="https://github.com/CEWu/PTNL">Code</a></span>
+</td>
+</tr> 
   
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/R2former.png" width="250"/> </td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/PTNL.png" width="250"/> </td>
   
  
 <td style="border-collapse: collapse; border: none;">
