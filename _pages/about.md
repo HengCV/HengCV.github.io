@@ -51,7 +51,7 @@ Shuhong Chen, Kevin Zhang, Yichun Shi, <b>Heng Wang</b>, Yiheng Zhu, Guoxian Son
 <br>
 <span><a href="https://arxiv.org/abs/2303.14587">Paper</a></span>, 
 <span><a href="https://github.com/ShuhongChen/panic3d-anime-reconstruction">Project page</a></span>, 
-<span><a href="https://github.com/ShuhongChen/panic3d-anime-reconstruction">Code</a></span>
+<span><a href="https://github.com/ShuhongChen/panic3d-anime-reconstruction">Dataset</a></span>
 </td>
 </tr> 
   
