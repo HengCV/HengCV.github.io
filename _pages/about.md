@@ -41,7 +41,7 @@ Cheng-En Wu, Yu Tian, Haichao Yu, <b>Heng Wang</b>, Pedro Morgado, Yu Hen Hu, Li
   
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/PTNL.png" width="250"/> </td>
+<img src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/R2former.png" width="250"/> </td>
   
  
 <td style="border-collapse: collapse; border: none;">
