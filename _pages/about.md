@@ -16,7 +16,7 @@ My research interests range from low-level vision to high-level vision with a fo
 
 ### Updates
 - Honored to receive the [<b>Helmholtz Prize</b>](https://www.thecvf.com/?page_id=413#Helmholtz) (Test of Time Award) at [ICCV 2023](https://iccv2023.thecvf.com/).
-- Congrats to the team for winning the 1st place on the medium track of the [DataComp challenge](https://www.datacomp.ai/leaderboard.html) at [ICCV 2023](https://iccv2023.thecvf.com/). Check out our [arXiv paper](https://arxiv.org/abs/2309.15954) for more details.
+- Congrats to the team for winning the 1st place on the medium track of the [DataComp challenge](https://www.datacomp.ai/leaderboard.html) at ICCV 2023. Check out our [arXiv paper](https://arxiv.org/abs/2309.15954) for more details.
 - 2 papers at CVPR 2023 and 1 paper at ICCV 2023.
 - Release the [code & model](https://github.com/facebookresearch/Generic-Grouping) for our [CVPR 2022 paper](https://sites.google.com/view/generic-grouping) on open-world instance segmentation.
 - Release the [UVO dataset](https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation) and organize a challenge for [Open-World Segmentation @ ICCV 2021](https://sites.google.com/view/unidentified-video-object/challenge-intro).
