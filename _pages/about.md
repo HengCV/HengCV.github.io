@@ -13,7 +13,10 @@ I received my Ph.D. in Computer Vision from [Chinese Academy of Sciences](http:/
 
 My research interests range from low-level vision to high-level vision with a focus on video understanding. You can find more detailed information in my [CV](Heng_Wang_CV.pdf) and my [old homepage](http://lear.inrialpes.fr/people/wang/). The best way to contact me is via my e-mail: <img width="25%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/email.png" >.
 
+Honored to receive the Helmholtz Prize (the test of time award) at ICCV 2023. 
+
 ### Updates
+- Congrats to the team for winning the 1st place on the medium track of the DataComp challenge at ICCV 2023.
 - 2 papers at CVPR 2023 and 1 paper at ICCV 2023.
 - Release the [code & model](https://github.com/facebookresearch/Generic-Grouping) for our [CVPR 2022 paper](https://sites.google.com/view/generic-grouping) on open-world instance segmentation.
 - Release the [UVO dataset](https://ai.facebook.com/blog/introducing-unidentified-video-objects-a-new-benchmark-for-open-world-object-segmentation) and organize a challenge for [Open-World Segmentation @ ICCV 2021](https://sites.google.com/view/unidentified-video-object/challenge-intro).
