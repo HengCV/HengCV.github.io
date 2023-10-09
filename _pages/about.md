@@ -14,7 +14,7 @@ I received my Ph.D. in Computer Vision from [Chinese Academy of Sciences](http:/
 My research interests range from low-level vision to high-level vision with a focus on video understanding. You can find more detailed information in my [CV](Heng_Wang_CV.pdf) and my [old homepage](http://lear.inrialpes.fr/people/wang/). The best way to contact me is via my e-mail: <img width="25%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/email.png" >.
 
 ### Updates
-- Honored to receive the <b>Helmholtz Prize</b>(https://www.thecvf.com/?page_id=413#Helmholtz) (Test of Time Award) at [ICCV 2023](https://iccv2023.thecvf.com/).
+- Honored to receive the [<b>Helmholtz Prize</b>](https://www.thecvf.com/?page_id=413#Helmholtz) (Test of Time Award) at [ICCV 2023](https://iccv2023.thecvf.com/).
 - Congrats to the team for winning the 1st place on the medium track of the DataComp challenge at ICCV 2023.
 - 2 papers at CVPR 2023 and 1 paper at ICCV 2023.
 - Release the [code & model](https://github.com/facebookresearch/Generic-Grouping) for our [CVPR 2022 paper](https://sites.google.com/view/generic-grouping) on open-world instance segmentation.
