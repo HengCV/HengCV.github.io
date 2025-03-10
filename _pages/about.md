@@ -15,6 +15,7 @@ My research interests range from low-level vision to high-level vision with a fo
 
 
 ### Updates
+- 3 papers accepted by ICLR 2025.
 - Honored to receive the [<b>Helmholtz Prize</b>](https://www.thecvf.com/?page_id=413#Helmholtz) (Test of Time Award) at [ICCV 2023](https://iccv2023.thecvf.com/papers.awards-48-8-274.php).
 - Congrats to the team for winning the [DataComp challenge](https://www.datacomp.ai/leaderboard.html). Check out our [arXiv paper](https://arxiv.org/abs/2309.15954) for more details.
 - 2 papers at CVPR 2023 and 1 paper at ICCV 2023.
