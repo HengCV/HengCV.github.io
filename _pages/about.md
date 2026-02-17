@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at Nvidia. I was a research lead at TikTok, a research scientist at [Facebook AI Research](https://ai.facebook.com/people/heng-wang), and an early member of the [Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc>) team that built the computer vision system to replace human cashiers for retail. Before moving to US, I was a postdoc in the [LEAR Team, INRIA](https://thoth.inrialpes.fr/people/wang/) with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/).
+I am currently a research scientist at Tencent. I was a research scientist at Nvidia working on the Cosmos world models, research lead at TikTok/ByteDance building Seed foundation models, research scientist at [Facebook AI Research](https://ai.facebook.com/people/heng-wang), and an early member of the [Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc>) team that built the computer vision system to replace human cashiers for retail. Before moving to US, I was a postdoc in the [LEAR Team, INRIA](https://thoth.inrialpes.fr/people/wang/) with [Cordelia Schmid](https://thoth.inrialpes.fr/~schmid/).
 I received my Ph.D. in Computer Vision from [Chinese Academy of Sciences](http://www.nlpr.ia.ac.cn/en/), and B.S. in Electrical Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/).
 
-My research interests range from low-level vision to high-level vision with a focus on video understanding. You can find more detailed information in my [CV](Heng_Wang_CV.pdf) and my [old homepage](http://lear.inrialpes.fr/people/wang/). The best way to contact me is via my e-mail: <img width="25%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/email.png" >.
+My research interests range from visual understanding to generation, recently focusing on world models. You can find more detailed information in my [CV](Heng_Wang_CV.pdf) and my [old homepage](http://lear.inrialpes.fr/people/wang/). The best way to contact me is via my e-mail: <img width="25%" src="https://raw.githubusercontent.com/hengcv/hengcv.github.io/master/images/email.png" >.
 
 
 ### Updates
 - 3 papers accepted by ICLR 2025.
+- Cosmos World Models released at CES'25.
 - Honored to receive the [<b>Helmholtz Prize</b>](https://www.thecvf.com/?page_id=413#Helmholtz) (Test of Time Award) at [ICCV 2023](https://iccv2023.thecvf.com/papers.awards-48-8-274.php).
 - Congrats to the team for winning the [DataComp challenge](https://www.datacomp.ai/leaderboard.html). Check out our [arXiv paper](https://arxiv.org/abs/2309.15954) for more details.
 - 2 papers at CVPR 2023 and 1 paper at ICCV 2023.
